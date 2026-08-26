@@ -1,6 +1,6 @@
 # <p align="center">💥 Perfil: Geovanna da Costa 💥</p>
 
-<p align="center"> 𓂃˖˳·˖ ִֶָ ⋆🌸⋆ ִֶָ˖·˳˖𓂃 </p>
+### ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 𓂃˖˳·˖ ִֶָ ⋆🌸⋆ ִֶָ˖·˳˖𓂃 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 ---
 
 ### 🌸 Sobre Mim
@@ -8,35 +8,11 @@ Sou estudante do curso de Programação de Jogos Digitais no **Senac-DF**. Meu o
 
 ---
 
-### 🛠️ Habilidades Técnicas
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Game Dev** | Unity, C#, Game Design, Pixel Art |
-| **Programação** | Python, Java, PHP |
-| **Web** | HTML, CSS, JavaScript |
-| **Ferramentas** | Git, GitHub, MySQL, Photoshop |
-
----
-
-### 👾 Experiência Profissional
-* **Senac-DF** | Instrutora III (Atual)
-* **Ctrl+Play** | Instrutora de Programação e Robótica
-* **Maximo Sucesso Cursos** | Instrutora de Informática
-* **Prefeitura de Águas Lindas** | Estágio em T.I
-
----
-
-### 🎓 Formação Acadêmica
-* **Pós-Graduação em Jogos Digitais** – UNOPAR (2026)
-* **Graduação em ADS** – Faculdade Projeção (2025)
-
----
-
-### 🌟 Soft Skills
-* Didática e Comunicação Assertiva
-* Resolução de Problemas
-* Adaptabilidade
-* Gestão de Grupos
+### 🌟Skills
+٠࣪⭑ Desenhar
+٠࣪⭑ Boa em fazer doces
+٠࣪⭑ Inglês avançado
+٠࣪⭑ Faço animações
 
 ---
 
@@ -51,5 +27,5 @@ Sou estudante do curso de Programação de Jogos Digitais no **Senac-DF**. Meu o
 </p>
 
 <p align="left">
-  📍 <i>Águas Lindas de Goiás - GO</i>
+  📍 <i>Ceilândia - DF</i>
 </p>
