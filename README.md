@@ -18,10 +18,10 @@ Sou estudante do curso de Programação de Jogos Digitais no **Senac-DF**. Meu o
 
 ### 💌 Contato
 <p align="left">
-  <a href="mailto:nicolecandidooli@gmail.com">
+  <a href="mailto:duasmaneskk@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff69b4?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/5561991535439">
+  <a href="https://wa.me/5561994137040">
     <img src="https://img.shields.io/badge/WhatsApp-8a2be2?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
 </p>
