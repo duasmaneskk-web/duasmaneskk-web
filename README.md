@@ -1,4 +1,4 @@
-# <p align="center">💥 Perfil: Geovanna da Costa 💥</p>
+# <p align="center">🪷 Perfil: Geovanna da Costa 🪷</p>
 
 ### ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 𓂃˖˳·˖ ִֶָ ⋆🌸⋆ ִֶָ˖·˳˖𓂃 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 ---
